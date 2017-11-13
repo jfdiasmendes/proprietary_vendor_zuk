@@ -677,4 +677,5 @@ PRODUCT_PACKAGES += \
     qcrilhook \
     libqti_performance \
     ims \
-    imssettings
+    imssettings \
+    HotwordEnrollmentOKGoogleWCD9340
